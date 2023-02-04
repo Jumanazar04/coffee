@@ -1,0 +1,31 @@
+/* fraunces-700 - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/fraunces-v26-latin-700.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/fraunces-v26-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/fraunces-v26-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/fraunces-v26-latin-700.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/fraunces-v26-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/fraunces-v26-latin-700.svg#Fraunces') format('svg'); /* Legacy iOS */
+  }
+  /* fraunces-800 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/fraunces-v26-latin-800.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/fraunces-v26-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/fraunces-v26-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/fraunces-v26-latin-800.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/fraunces-v26-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/fraunces-v26-latin-800.svg#Fraunces') format('svg'); /* Legacy iOS */
+  }
+
+@font-face {
+    font-family: 'Barlow', sans-serif;
+    src: url(../fonts/Barlow-Light.ttf);
+}
